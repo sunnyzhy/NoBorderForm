@@ -1,0 +1,14 @@
+D:\C#\NoBorderForm\NoBorderForm3\bin\Debug\NoBorderForm3.exe.config
+D:\C#\NoBorderForm\NoBorderForm3\bin\Debug\NoBorderForm3.exe
+D:\C#\NoBorderForm\NoBorderForm3\bin\Debug\NoBorderForm3.pdb
+D:\C#\NoBorderForm\NoBorderForm3\obj\Debug\MainWindow.baml
+D:\C#\NoBorderForm\NoBorderForm3\obj\Debug\MainWindow.g.cs
+D:\C#\NoBorderForm\NoBorderForm3\obj\Debug\App.g.cs
+D:\C#\NoBorderForm\NoBorderForm3\obj\Debug\NoBorderForm3_MarkupCompile.cache
+D:\C#\NoBorderForm\NoBorderForm3\obj\Debug\NoBorderForm3.g.resources
+D:\C#\NoBorderForm\NoBorderForm3\obj\Debug\NoBorderForm3.Properties.Resources.resources
+D:\C#\NoBorderForm\NoBorderForm3\obj\Debug\NoBorderForm3.csproj.GenerateResource.Cache
+D:\C#\NoBorderForm\NoBorderForm3\obj\Debug\NoBorderForm3.exe
+D:\C#\NoBorderForm\NoBorderForm3\obj\Debug\NoBorderForm3.pdb
+D:\C#\NoBorderForm\NoBorderForm3\obj\Debug\Window1.baml
+D:\C#\NoBorderForm\NoBorderForm3\obj\Debug\Window1.g.cs

@@ -1,0 +1,12 @@
+D:\C#\NoBorderForm\NoBorderForm2\bin\Debug\NoBorderForm2.exe.config
+D:\C#\NoBorderForm\NoBorderForm2\bin\Debug\NoBorderForm2.exe
+D:\C#\NoBorderForm\NoBorderForm2\bin\Debug\NoBorderForm2.pdb
+D:\C#\NoBorderForm\NoBorderForm2\obj\Debug\MainWindow.baml
+D:\C#\NoBorderForm\NoBorderForm2\obj\Debug\MainWindow.g.cs
+D:\C#\NoBorderForm\NoBorderForm2\obj\Debug\App.g.cs
+D:\C#\NoBorderForm\NoBorderForm2\obj\Debug\NoBorderForm2_MarkupCompile.cache
+D:\C#\NoBorderForm\NoBorderForm2\obj\Debug\NoBorderForm2.g.resources
+D:\C#\NoBorderForm\NoBorderForm2\obj\Debug\NoBorderForm2.Properties.Resources.resources
+D:\C#\NoBorderForm\NoBorderForm2\obj\Debug\NoBorderForm2.csproj.GenerateResource.Cache
+D:\C#\NoBorderForm\NoBorderForm2\obj\Debug\NoBorderForm2.exe
+D:\C#\NoBorderForm\NoBorderForm2\obj\Debug\NoBorderForm2.pdb
